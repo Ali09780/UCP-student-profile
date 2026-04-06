@@ -1,3 +1,3 @@
-# UCP-student-profile
+# Pratice-student-profile
 First Repo
 BY ALI
